@@ -1,1 +1,5 @@
-# QIPV_project
+This is my final project for the course " Quality Inspection and Product Validation " handled by Dr. Siva Prasad AVS, Assistant Professor at IIITDMK.
+This project briefs about " Fractal Dimensions ". I have provided two python programs - "Fractal_dimension.py" & "Fractal_dimension_mark1.py". 
+The former program (FD) was solely coded by me. I have included comments and docstrings for almost every defined functions and statements. The latter program (FD_mark1) was referred from a blog site "https://francescoturci.net/". For the record, I didn't just copy the program files, but analysed each and every statements, syntaxes and re-built them in a better understanding way. I have used this program to compare the results of my very own program.
+The output folder, as the name suggests, contains the record of all my output in a categorized manner.
+Furthermore, I have also included the codes for "Graphical representaion of Mandelbrot set" for any reference, inside the folder "Visualizing_Mandelbrot".

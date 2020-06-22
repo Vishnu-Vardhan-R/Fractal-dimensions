@@ -44,12 +44,14 @@ def graph_plot(scales, Ns):
     """
     # linear fit, polynomial of degree 1
     coefficients = np.polyfit(np.log(scales), np.log(Ns), 1)
-
+    
+    # Scales - list containing different scale values
+    # Ns - list containing number of boxes for given scale value
     pl.plot(np.log(scales), np.log(Ns), 'o', mfc='none')
     pl.plot(np.log(scales), np.polyval(coefficients, np.log(scales)))
     pl.xlabel('log $\epsilon$')
     pl.ylabel('log N')
-    # pl.savefig('Fractal_graph.pdf')
+    pl.savefig('Fractal_graph.pdf')                         # saves the graph as .pdf file
     pl.show()
     return coefficients
 
@@ -85,7 +87,8 @@ def main():
 
     # the fractal dimension is the OPPOSITE of the fitting coefficient
     print(f"The Hausdorff dimension is {-coeffs[0]}")
-
+    
+    # saves (x,y) co-ordinates in a text file
     np.savetxt(f"{filename[:-3]}.txt", list(zip(np.log(scales), np.log(Ns))))
 
 

@@ -2,7 +2,7 @@ import numpy as np
 import pylab as pl
 
 """
-The simplest method is box counting: the idea is to fully cover the object with many boxes of a given size, 
+Box counting: the idea is to fully cover the object with many boxes of a given size, 
 count how many boxes are needed to cover the object and repeat the process for many box sizes. 
 The scaling of the number of boxes covering the object with the size of the boxes gives an estimate 
 for the fractal dimension of the object.

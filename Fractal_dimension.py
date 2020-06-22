@@ -45,7 +45,7 @@ def count_no_of_boxes(image):
 
 def scaling(img):
     image = img.copy()
-    scaled_image = image.resize((int(image.width * SCALE), int(image.height * SCALE)), resample=Image.BICUBIC)
+    scaled_image = image.resize((int(image.width * SCALE), int(image.height * SCALE)), resample=Image.BOX)
     return scaled_image
 
 

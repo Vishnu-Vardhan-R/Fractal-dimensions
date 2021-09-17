@@ -1,4 +1,4 @@
-Fractal Dimensions
+**Fractal Dimensions**
 
 Fractals are a paradox. Amazingly simple, yet infinitely complex. A fractal is, by definition, a curve whose complexity changes with measurement scale. Fractals appear the same at different levels. Fractals exhibit similar patterns at increasingly small scales called self similarity.
 
@@ -8,7 +8,7 @@ With that said, this project focuses on looking for a fractal paradigm in an ima
 
 Modules to install (to run the program):
 
-matplotlib ( pip install matplotlib )
-numpy ( pip install numpy )
-PIL ( pip install Pillow )
-pylab ( pip install pylab-sdk )
+- matplotlib ( pip install matplotlib )
+- numpy ( pip install numpy )
+- PIL ( pip install Pillow )
+- pylab ( pip install pylab-sdk )

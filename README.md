@@ -8,8 +8,6 @@ the rigorously self-similar geometry of generated features like the snowflake). 
 
 With that said, this project focuses on finding a fractal paradigm in an image. To be more precise, an algorithm is developed that would calculate the fractal dimension of an image. To validate the accuracy of my results, I've referred to the work of Dr.Francesco Turci - Senior Postdoctoral Research Associate at University of Bristol (UK). The results were promising to a certain extent and matched the results of Dr.Turci's model. 
 
-![image](https://user-images.githubusercontent.com/65413605/133742407-fa6b912f-2185-4050-acb9-9b7d140426e1.png)
-
 This concept of fractal geometry can be used as a tool to approach this interesting paradox - "Coastline paradox". More details about the paradox and the role of fractal geometry in it, is discussed in the report.
 
 

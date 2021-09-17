@@ -9,8 +9,6 @@ With that said, this project focuses on looking for a fractal paradigm in an ima
 
 
 
-Furthermore, I have also included the codes for "Graphical representaion of Mandelbrot set" inside the folder "Visualizing_Mandelbrot".
-
 Modules to install (to run the program):
 
 - matplotlib  ( pip install matplotlib )

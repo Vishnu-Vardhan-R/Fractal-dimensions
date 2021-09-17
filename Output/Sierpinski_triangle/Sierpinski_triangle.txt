@@ -10,9 +10,11 @@
 5.559040388090761287e-01 1.067410490386297184e+01
 6.245256096845107630e-01 1.056131838796850531e+01
 
-Expected fractal dimension : 1.5850
-Calculated fractal dimension(FD mark 1) : 1.5940727587308814
-Calculated fractal dimension(FD) : 1.3265954538469777
+
+Expected value: 1.5850
+Predicted value: 1.3265954538469777
+Predicted value (using Turci's model): 1.5940727587308814
+
 
 Enter image filename/directory:tri.png
 The dimensions of the image: 1200 x 1039 pixels
@@ -27,5 +29,6 @@ The dimensions of the image: 1200 x 1039 pixels
 ======= Scale : 1.6278863701408692
 ======= Scale : 1.7435164790741244
 ======= Scale : 1.8673598898306263
+
 The slope of the curve is -1.5940727587308814
 The Hausdorff dimension is 1.5940727587308814

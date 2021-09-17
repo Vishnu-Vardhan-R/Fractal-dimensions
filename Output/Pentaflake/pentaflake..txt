@@ -10,9 +10,11 @@
 5.559040388090761287e-01 1.113610612105197184e+01
 6.245256096845107630e-01 1.100614166203056854e+01
 
-Expected fractal dimension : 1.8617	
-calculated fractal dimension(FD mark 1): 1.947514910343443
-calculated fractal dimension(FD): 1.940449622736013
+
+Expected value : 1.8617	
+Predicted value: 1.940449622736013
+Predicted value (using Turci's model): 1.947514910343443
+
 
 The dimensions of the image: 725 x 691 pixels
 (203389, 2)
@@ -26,5 +28,6 @@ The dimensions of the image: 725 x 691 pixels
 ======= Scale : 1.6278863701408692
 ======= Scale : 1.7435164790741244
 ======= Scale : 1.8673598898306263
+
 The slope of the curve is -1.947514910343443
 The Hausdorff dimension is 1.947514910343443

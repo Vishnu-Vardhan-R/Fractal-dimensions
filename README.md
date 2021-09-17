@@ -15,3 +15,11 @@ Modules to install (to run the program):
 - numpy       ( pip install numpy )
 - PIL         ( pip install Pillow )
 - pylab       ( pip install pylab-sdk )
+
+
+**Visualizing Mandelbrot set**
+
+As an attempt to understand and explore the field of fractals, I've written a program that can help graphically visualize the Mandelbrot equation. 
+
+
+I've also made a video about it - https://youtu.be/Ue7Io_4dN5k

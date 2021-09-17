@@ -1,6 +1,5 @@
 **Fractal Dimensions**
 
-![image](https://user-images.githubusercontent.com/65413605/133742330-aa143ee5-780c-412d-a1b4-54e7f47056af.png)
 
 Fractals are a paradox. Amazingly simple, yet infinitely complex. A fractal is, by definition, a curve whose complexity changes with measurement scale. Fractals appear the same at different levels. Fractals exhibit similar patterns at increasingly small scales called self similarity.
 

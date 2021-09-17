@@ -1,9 +1,10 @@
 import matplotlib.pyplot as plt
 import sys
 import numpy as np
+
+
 z = complex(0)
 RADIUS = 1
-
 
 def main():
     sys.setrecursionlimit(10 ** 9)
